@@ -1,0 +1,1 @@
+# HealthChecks with .Net 5 and AspNetCore.HealthChecks
